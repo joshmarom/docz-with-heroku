@@ -1,0 +1,6 @@
+const config = {
+  title: "My docs!",
+  mdxExtensions: [".mdx"], // otherwise it will try to transform external md files in Heroku
+};
+
+export default config;
