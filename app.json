@@ -1,4 +1,9 @@
 {
+  "name": "Docz with Heroku",
+  "description": "It has never been so easy to document your things.",
+  "logo": "https://www.docz.site/static/img/logo.4f4f7bc5.svg",
+  "repository": "https://github.com/nopito/docz-with-heroku",
+  "keywords": ["docz", "nodejs", "gatsby"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
